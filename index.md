@@ -60,7 +60,7 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 
 ## Selected Projects & Assignments
 
-### Software development and test - Atlas Copco, 2025
+### Software development and test - Atlas Copco, 2025-
 - Develop automation tests for verifing Atlas Copco products
 - Verification of new software and hardware releases
 
