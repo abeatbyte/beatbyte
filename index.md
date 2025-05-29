@@ -3,7 +3,7 @@
 
 Software engineer / Test Developer
 
-<img src="me-no_bl.png" alt="Description"  width="100" style="margin-right: 200px;">
+<img src="me_no_bl.png" alt="Description"  width="100" style="margin-right: 200px;">
 
 ---
 
