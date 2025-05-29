@@ -21,14 +21,16 @@ I have a strong interest in technology and IT, including working with hardware a
 - BDD/TDD (Test Development)  
 
 ### Infrastructure
-- Git/GitLab/Github/BitBucket  
+- Git/GitLab/Github/BitBucket
+- Jenkins/Github actions
 - Kubernetes / Helm / Docker  
 - Kafka  
 - REST API, Microservices  
 - PostgreSQL, MongoDB  
 - Linux, U-Boot, Bootloaders  
 - Ansible
--  Flask, fastapi
+- Flask, fastapi
+- Python packaging
 
 ### Misc 
 - Confluence / Jira / Jama 
@@ -40,7 +42,7 @@ I have a strong interest in technology and IT, including working with hardware a
 ---
 
 ## Education & Certifications  
-MSc in Computer Engineering, Luleå University of Technology (1984–1989)  
+Master of Science in Computer Engineering, Luleå University of Technology (1984–1989)  
 - Mastering Advanced Git, O’Reilly (2020)  
 - ISTQB Foundation Certificate (2011)  
 - Agile Engineering Practices, O’Reilly (2024)
@@ -73,7 +75,7 @@ MSc in Computer Engineering, Luleå University of Technology (1984–1989)
 
 ## Small projects
 
-Small projects on [PyPi](https://pypi.org/) to updated on tools like git, github actions, uv/python, etc
+Small projects on [PyPi](https://pypi.org/) to be updated on tools like git, github actions, uv/python
 
 - [morningstar-fund-scraper](https://pypi.org/project/morningstar-fund-scraper)
 - [midsummer](https://pypi.org/project/midsummer)
