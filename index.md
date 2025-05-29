@@ -5,10 +5,6 @@
 ## About Me  
 I have a strong interest in technology and IT and enjoy working in teams. My motivation comes from continuously learning new things in varied environments, ideally alongside curious colleagues. I'm often described as driven, result-oriented, structured, and easygoing.
 
----
-
-## Outside of Work  
-I play trombone in various ensembles (jazz/classical), enjoy cross-country skiing, and have a passion for outdoor activities in snowy environments. To clear my mind during the week, I like to take long walks.
 
 ---
 
@@ -56,3 +52,10 @@ I play trombone in various ensembles (jazz/classical), enjoy cross-country skiin
 
 ### Developer – Ericsson, 2013–2015  
 - C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
+
+
+---
+
+## Outside of Work  
+I play trombone in various ensembles (jazz/classical), enjoy cross-country skiing, and have a passion for outdoor activities in snowy environments. To clear my mind during the week, I like to take long walks.
+  
