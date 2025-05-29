@@ -1,4 +1,3 @@
-## Fredrik Svärd
 
 Developer / Test Developer
 
@@ -11,6 +10,8 @@ I have a strong interest in technology and IT, including working with hardware a
 ---
 
 ## Technical Skills
+
+### Language
 - Python  
 - C/C++  
 - Ruby  
@@ -18,14 +19,19 @@ I have a strong interest in technology and IT, including working with hardware a
 - Express.js  
 - Bash scripting  
 - BDD/TDD (Test Development)  
-- Git/GitLab  
+
+### Infrastructure
+- Git/GitLab/Github/BitBucket  
 - Kubernetes / Helm / Docker  
 - Kafka  
 - REST API, Microservices  
 - PostgreSQL, MongoDB  
 - Linux, U-Boot, Bootloaders  
-- Ansible, Django  
-- Confluence / Jira  
+- Ansible
+-  Flask, fastapi
+
+### Misc 
+- Confluence / Jira / Jama 
 - Test Automation  
 - Requirements Engineering  
 - Data Communication, Medtech, Automotive  
