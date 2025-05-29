@@ -1,5 +1,7 @@
 
-***Fredrik Svärd - Software engineer / Test Developer*** 
+## Fredrik Svärd 
+
+Software engineer / Test Developer
 
 ---
 
