@@ -76,6 +76,25 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 
 (Full list available upon request)
 
+### Software Engineer – Thoreb IT Vehicle, 2010–2011
+At Thoreb IT Vehicle, I worked as an embedded systems developer for vehicle-mounted onboard computers. My key responsibilities included:
+
+- Board bring-up and low-level software development for custom embedded platforms based on Motorola processors.
+- Porting and configuring U-Boot bootloaders for proprietary hardware designs.
+- Integrating and adapting various vehicle-specific sensors, including accelerometers, gyroscopes, and gear system interfaces.
+- Implementing firmware and hardware abstraction layers to ensure reliable data acquisition and communication within in-vehicle networks.
+
+This role required deep hardware–software integration, real-time debugging, and strong collaboration with hardware engineers to validate new designs.
+
+
+### Software Engineer – C-RAD Imaging, 2007–2010
+At C-RAD Imaging, I developed low-level software for the GEMini ED flat panel detector system used in high-precision radiotherapy imaging. My primary responsibilities included: 
+
+- Developing a custom Linux device driver to interface with the GEM-based detector hardware.
+- Implementing a user-space application that utilized the driver to capture raw digital image data from the detector.
+- Enabling TCP/IP socket-based streaming of image data for integration with external image processing and diagnostic systems.
+- The system supported real-time imaging up to 30 fps at full resolution (1024×1024), and achieved high sensitivity at low radiation doses. The technology was based on Gas Electron Multiplier (GEM) readout and required careful handling of synchronization, data buffering, and performance tuning for clinical use.
+
 ---
 
 ## Small projects
