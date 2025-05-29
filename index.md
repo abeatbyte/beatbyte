@@ -4,7 +4,9 @@
 ---
 
 ## About Me  
-I have a strong interest in technology and IT, including working with hardware and embedded systems, and I enjoy working in teams. My motivation comes from continuously learning new things in varied environments, ideally alongside curious colleagues. I'm often described as driven, result-oriented, structured, and easygoing.
+I have a strong interest in technology and IT, including working with hardware and embedded systems, and I enjoy working in teams. 
+
+My motivation comes from continuously learning new things in varied environments, ideally alongside curious colleagues. I'm often described as driven, result-oriented, structured, and easygoing.
 
 
 ---
