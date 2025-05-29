@@ -44,7 +44,8 @@ MSc in Computer Engineering, Luleå University of Technology (1984–1989)
 - Mastering Advanced Git, O’Reilly (2020)  
 - ISTQB Foundation Certificate (2011)  
 - Agile Engineering Practices, O’Reilly (2024)
-- Systems Engineering and Lifecycle Management, CAG Syntell
+- Systems Engineering and Lifecycle Management (2024), CAG Syntell
+- Internet of Things, IoT (2024), [Linnaeus University](https://lnu.se/en/)
 - (Full list available upon request)
 
 ---
