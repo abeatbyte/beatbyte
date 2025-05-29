@@ -96,4 +96,6 @@ Small projects on [PyPi](https://pypi.org/) to be updated on tools like git, git
 
 ## Outside of Work  
 I play trombone in various ensembles (jazz/classical), enjoy cross-country skiing, and have a passion for outdoor activities in snowy environments. To clear my mind during the week, I like to take long walks.
+
+
   
