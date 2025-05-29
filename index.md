@@ -44,6 +44,10 @@ MSc in Computer Engineering, Luleå University of Technology (1984–1989)
 
 ## Selected Projects & Assignments
 
+## Software development and test - Atlas Copco, 2025
+- Develop automation tests for verifing Atlas Copco products
+- Verification of new software and hardware releases
+
 ### Programming Instructor – Tre (3), 2024  
 - Designed and delivered an advanced course in Python, Git, Docker, Flask/FastAPI, and Exploratory Data Analysis (EDA).  
 - Responsible for lectures, mentoring, hands-on exercises, labs, and project work.
