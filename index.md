@@ -3,6 +3,8 @@
 
 Software engineer / Test Developer
 
+<img src="me_no_bg.png" alt="Description"  width="100" style="margin-right: 200px;">
+
 ---
 
 ## About Me  
