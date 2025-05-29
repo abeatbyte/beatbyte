@@ -1,22 +1,59 @@
+# Fredrik Svärd  
+**Developer / Test Developer**
 
-# First attempt!
+---
 
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than dense.
-Readability counts.
-Special cases aren't special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Although never is often better than *right* now.
-If the implementation is hard to explain, it's a bad idea.
-If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!
+## About Me  
+I have a strong interest in technology and IT and enjoy working in teams. My motivation comes from continuously learning new things in varied environments, ideally alongside curious colleagues. I'm often described as driven, result-oriented, structured, and easygoing.
+
+---
+
+## Outside of Work  
+I play trombone in various ensembles (jazz/classical), enjoy cross-country skiing, and have a passion for outdoor activities in snowy environments. To clear my mind during the week, I like to take long walks.
+
+---
+
+## Technical Skills (1–10)  
+- **Python**  
+- **C/C++**  
+- **Ruby**  
+- **C#**  
+- **Express.js**  
+- **Bash scripting**  
+- **BDD/TDD (Test Development)**  
+- **Git/GitLab**  
+- **Kubernetes / Helm / Docker**  
+- **Kafka**  
+- **REST API, Microservices**  
+- **PostgreSQL, MongoDB**  
+- **Linux, U-Boot, Bootloaders**  
+- **Ansible, Django**  
+- **Confluence / Jira**  
+- **Test Automation**  
+- **Requirements Engineering**  
+- **Data Communication, Medtech, Automotive**  
+- **Agile Methodologies, Team Player**
+
+---
+
+## Education & Certifications  
+**MSc in Computer Engineering, Luleå University of Technology (1984–1989)**  
+- Mastering Advanced Git, O’Reilly (2020)  
+- ISTQB Foundation Certificate (2011)  
+- Agile Engineering Practices, O’Reilly (2024)  
+- (Full list available upon request)
+
+---
+
+## Selected Projects & Assignments
+
+### Programming Instructor – Tre (3), 2024  
+- Designed and delivered an advanced course in Python, Git, Docker, Flask/FastAPI, and Exploratory Data Analysis (EDA).  
+- Responsible for lectures, mentoring, hands-on exercises, labs, and project work.
+
+### Test Developer – Svenska Spel, 2015–2024  
+- Integration testing using Gherkin/BDD for backend systems in sports, racing, poker, and betting.  
+- Worked in Kubernetes/Docker environments with PostgreSQL, Kafka, and MongoDB.
+
+### Developer – Ericsson, 2013–2015  
+- C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
