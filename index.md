@@ -37,14 +37,15 @@ I have a strong interest in technology and IT, including working with hardware a
 MSc in Computer Engineering, Luleå University of Technology (1984–1989)  
 - Mastering Advanced Git, O’Reilly (2020)  
 - ISTQB Foundation Certificate (2011)  
-- Agile Engineering Practices, O’Reilly (2024)  
+- Agile Engineering Practices, O’Reilly (2024)
+- Systems Engineering and Lifecycle Management, CAG Syntell
 - (Full list available upon request)
 
 ---
 
 ## Selected Projects & Assignments
 
-## Software development and test - Atlas Copco, 2025
+### Software development and test - Atlas Copco, 2025
 - Develop automation tests for verifing Atlas Copco products
 - Verification of new software and hardware releases
 
@@ -60,6 +61,16 @@ MSc in Computer Engineering, Luleå University of Technology (1984–1989)
 - C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
 
 (Full list available upon request)
+
+---
+
+## Small projects
+
+Small projects on [PyPi](https://pypi.org/) to updated on tools like git, github actions, uv/python, etc
+
+- [morningstar-fund-scraper](https://pypi.org/project/morningstar-fund-scraper)
+- [midsummer](https://pypi.org/project/midsummer)
+
 
 ---
 
