@@ -1,5 +1,5 @@
 
-***Fredrik Svärd - Software engineer / Test Developer***
+***Fredrik Svärd - Software engineer / Test Developer*** [beatbyte.ab@gmail.com](beatbyte@gmail.com)
 
 ---
 
