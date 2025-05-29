@@ -16,7 +16,8 @@ I have a strong interest in technology and IT, including working with hardware a
 - C/C++  
 - Ruby  
 - C#  
-- Express.js  
+- Javascript
+- Rust 
 - Bash scripting  
 - BDD/TDD (Test Development)  
 
