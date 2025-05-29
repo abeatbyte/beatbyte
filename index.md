@@ -1,4 +1,3 @@
-# Fredrik Svärd  
 **Developer / Test Developer**
 
 ---
