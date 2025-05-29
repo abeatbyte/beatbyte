@@ -74,7 +74,16 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 ### Developer – Ericsson, 2013–2015  
 - C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
 
-(Full list available upon request)
+
+### Integration Consultant – Kaj63 (Bolagsverket), 2011–2013
+As a consultant from Kaj63, I worked on a major migration project for Bolagsverket, transitioning core business applications from legacy mainframe systems to a modern Linux-based development and production environment. My role included:
+
+- Acting as a technical integrator and mentor, supporting teams in adopting new tools and workflows.
+- Assisting with the setup and automation of build and deployment processes using Jenkins, Subversion, and bash scripting.
+- Supporting the migration and adaptation of Cobol-based systems to run in the new platform.
+- Providing hands-on development and scripting in Python, shell, and Linux environments, including development in Eclipse.
+
+The assignment focused on improving maintainability and reproducibility of the system landscape during the transition to a modern software stack.
 
 ### Software Engineer – Thoreb IT Vehicle, 2010–2011
 At Thoreb IT Vehicle, I worked as an embedded systems developer for vehicle-mounted onboard computers. My key responsibilities included:
@@ -94,6 +103,10 @@ At C-RAD Imaging, I developed low-level software for the GEMini ED flat panel de
 - Implementing a user-space application that utilized the driver to capture raw digital image data from the detector.
 - Enabling TCP/IP socket-based streaming of image data for integration with external image processing and diagnostic systems.
 - The system supported real-time imaging up to 30 fps at full resolution (1024×1024), and achieved high sensitivity at low radiation doses. The technology was based on Gas Electron Multiplier (GEM) readout and required careful handling of synchronization, data buffering, and performance tuning for clinical use.
+
+(Full list available upon request)
+
+
 
 ---
 
