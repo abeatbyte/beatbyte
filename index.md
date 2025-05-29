@@ -82,9 +82,15 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 
 Small projects on [PyPi](https://pypi.org/) to be updated on tools like git, github actions, uv/python
 
+#### Packaging
+
 - [morningstar-fund-scraper](https://pypi.org/project/morningstar-fund-scraper)
 - [midsummer](https://pypi.org/project/midsummer)
 
+#### Scripts
+
+- [elspot](https://github.com/nfredrik/otvunget)
+- [IoT project](https://github.com/nfredrik/mickarucken)
 
 ---
 
