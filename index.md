@@ -18,14 +18,15 @@ I have a strong interest in technology and IT, including working with hardware a
 - C#  
 - Javascript
 - Rust 
-- Bash scripting  
+- Bash scripting
+- Groovy
 - BDD/TDD (Test Development)  
 
 ### Infrastructure
 - Git/GitLab/Github/BitBucket
 - Jenkins/Github actions
 - Kubernetes / Helm / Docker  
-- Kafka  
+- Kafka/Google Protobuf/ Avro  
 - REST API, Microservices  
 - PostgreSQL, MongoDB  
 - Linux, U-Boot, Bootloaders  
@@ -38,10 +39,10 @@ I have a strong interest in technology and IT, including working with hardware a
 - Test Automation  
 - Data Communication
 - Medtech
-- Automotive  
+- Automotive
+- Micro Services
 - Confluence / Jira / Jama 
 - Requirements Engineering  
-
 - Agile Methodologies, Team Player
 
 ---
@@ -105,8 +106,6 @@ At C-RAD Imaging, I developed low-level software for the GEMini ED flat panel de
 - The system supported real-time imaging up to 30 fps at full resolution (1024×1024), and achieved high sensitivity at low radiation doses. The technology was based on Gas Electron Multiplier (GEM) readout and required careful handling of synchronization, data buffering, and performance tuning for clinical use.
 
 (Full list available upon request)
-
-
 
 ---
 
