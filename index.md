@@ -1,5 +1,5 @@
 
-***Fredrik Svärd - Software engineer / Test Developer*** [beatbyte.ab@gmail.com](beatbyte@gmail.com)
+***Fredrik Svärd - Software engineer / Test Developer*** 
 
 ---
 
@@ -127,6 +127,11 @@ Small projects on [PyPi](https://pypi.org/) to be updated on tools like git, git
 
 ## Outside of Work  
 I play trombone in various ensembles (jazz/classical), enjoy cross-country skiing, and have a passion for outdoor activities in snowy environments. To clear my mind during the week, I like to take long walks.
+
+## Contact
+
+Questions? Please send me a mail!
+[fredrik.svard@gmail.com](fredrik.svard@gmail.com)
 
 
   
