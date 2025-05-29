@@ -55,6 +55,7 @@ MSc in Computer Engineering, Luleå University of Technology (1984–1989)
 ### Developer – Ericsson, 2013–2015  
 - C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
 
+(Full list available upon request)
 
 ---
 
