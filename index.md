@@ -1,4 +1,6 @@
-**Developer / Test Developer**
+## Fredrik Svärd
+
+Developer / Test Developer
 
 ---
 
@@ -8,31 +10,31 @@ I have a strong interest in technology and IT and enjoy working in teams. My mot
 
 ---
 
-## Technical Skills (1–10)  
-- **Python**  
-- **C/C++**  
-- **Ruby**  
-- **C#**  
-- **Express.js**  
-- **Bash scripting**  
-- **BDD/TDD (Test Development)**  
-- **Git/GitLab**  
-- **Kubernetes / Helm / Docker**  
-- **Kafka**  
-- **REST API, Microservices**  
-- **PostgreSQL, MongoDB**  
-- **Linux, U-Boot, Bootloaders**  
-- **Ansible, Django**  
-- **Confluence / Jira**  
-- **Test Automation**  
-- **Requirements Engineering**  
-- **Data Communication, Medtech, Automotive**  
-- **Agile Methodologies, Team Player**
+## Technical Skills
+- Python  
+- C/C++  
+- Ruby  
+- C#  
+- Express.js  
+- Bash scripting  
+- BDD/TDD (Test Development)  
+- Git/GitLab  
+- Kubernetes / Helm / Docker  
+- Kafka  
+- REST API, Microservices  
+- PostgreSQL, MongoDB  
+- Linux, U-Boot, Bootloaders  
+- Ansible, Django  
+- Confluence / Jira  
+- Test Automation  
+- Requirements Engineering  
+- Data Communication, Medtech, Automotive  
+- Agile Methodologies, Team Player
 
 ---
 
 ## Education & Certifications  
-**MSc in Computer Engineering, Luleå University of Technology (1984–1989)**  
+MSc in Computer Engineering, Luleå University of Technology (1984–1989)  
 - Mastering Advanced Git, O’Reilly (2020)  
 - ISTQB Foundation Certificate (2011)  
 - Agile Engineering Practices, O’Reilly (2024)  
