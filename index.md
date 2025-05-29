@@ -33,10 +33,14 @@ I have a strong interest in technology and IT, including working with hardware a
 - Python packaging
 
 ### Misc 
-- Confluence / Jira / Jama 
+- Embedded systems
 - Test Automation  
+- Data Communication
+- Medtech
+- Automotive  
+- Confluence / Jira / Jama 
 - Requirements Engineering  
-- Data Communication, Medtech, Automotive  
+
 - Agile Methodologies, Team Player
 
 ---
