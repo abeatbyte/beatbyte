@@ -86,7 +86,10 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 
 
 ### Developer – Ericsson, 2013–2015  
-- C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
+- Worked on the next-generation radio base station platform within Ericsson’s R&D division.
+- Contributed to the migration from a proprietary RTOS (OSE) to Linux with a soft real-time kernel, based on Wind River distribution.
+- Involved in low-level driver integration, hardware abstraction layers, and real-time behavior tuning.
+- Used tools and processes including GCC, GDB, Git, Jenkins, Python, and CI pipelines tailored for embedded development.
 
 
 ### Integration Consultant – Kaj63 (Bolagsverket), 2011–2013
