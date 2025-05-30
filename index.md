@@ -18,9 +18,9 @@ My motivation comes from continuously learning new things in varied environments
 ## Technical Skills
 
 ### Language
-- Python  
+- ***Python***  
 - C/C++  
-- Ruby  
+- ***Ruby***  
 - C#  
 - Javascript
 - Rust 
@@ -71,12 +71,19 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 - Verification of new software and hardware releases
 
 ### Programming Instructor – Tre (3), 2024  
-- Designed and delivered an advanced course in Python, Git, Docker, Flask/FastAPI, and Exploratory Data Analysis (EDA).  
-- Responsible for lectures, mentoring, hands-on exercises, labs, and project work.
+- I developed and delivered an advanced programming course covering several technical areas.
+- I independently created and tailored the course materials to provide in-depth knowledge in Python programming, version control with Git, containerization using Docker and Podman, Exploratory Data Analysis (EDA), and web development using frameworks such as Flask and FastAPI.
 
 ### Test Developer – Svenska Spel, 2015–2024  
-- Integration testing using Gherkin/BDD for backend systems in sports, racing, poker, and betting.  
-- Worked in Kubernetes/Docker environments with PostgreSQL, Kafka, and MongoDB.
+- Developed and maintained **integration tests** for backend services related to sports, racing, poker, and sports betting.  
+- Wrote tests in **Gherkin/BDD**, clearly mapping requirements to test scenarios.  
+- Worked in a **CI/CD-driven environment**, where full integration test suites had to pass before merging feature branches to master, minimizing regression risks.  
+- Backend services were implemented as **microservices** deployed in **Kubernetes/Docker** environments.  
+- Integrated internal services with external vendor modules using **mocking techniques** in test environments.  
+- Collaborated closely with the development team to ensure high test coverage and system reliability.  
+- Tools and technologies used:  
+  `Python`, `C#`, `Kubernetes`, `Helm`, `Docker`, `Jenkins`, `Git`, `JSON`, `YAML`, `Poetry`, `BDD/Behave`, custom Python package development.
+
 
 ### Developer – Ericsson, 2013–2015  
 - C/C++ development for next-generation radio base stations using a Linux soft real-time OS.
