@@ -1,7 +1,7 @@
 
 ## Fredrik Svärd 
 
-Software engineer / Test Developer download pdf ![CV](cv_beatbyte.pdf)
+Software engineer / Test Developer download pdf [CV](cv_beatbyte.pdf)
 
 <img src="me_no_bg.png" alt="Description"  width="100" style="margin-right: 200px;">
 
