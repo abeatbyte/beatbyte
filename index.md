@@ -146,7 +146,10 @@ I play trombone in various ensembles (jazz/classical), enjoy cross-country skiin
 
 ## Contact
 
-Questions? Please email me, [fredrik.svard@gmail.com](fredrik.svard@gmail.com)
+Questions? :email:  [fredrik.svard@gmail.com](fredrik.svard@gmail.com)
+
+
+
 
 
   
