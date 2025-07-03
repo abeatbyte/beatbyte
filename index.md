@@ -57,7 +57,8 @@ My motivation comes from continuously learning new things in varied environments
 ## Education & Certifications  
 Master of Science in Computer Engineering, Luleå University of Technology (1984–1989)  
 - Mastering Advanced Git, O’Reilly (2020)  
-- ISTQB Foundation Certificate (2011)  
+- ISTQB Foundation Certificate (2011)
+- Quality Management for Medical Devices (Company-Adapted Seminar) C-RAD / Opteama AB, November.Acquired in-depth knowledge of EU and US regulatory requirements for medical     device quality management systems discussions to reinforce quality assurance best practices (2007)
 - Agile Engineering Practices, O’Reilly (2024)
 - Systems Engineering and Lifecycle Management (2024), CAG Syntell
 - Internet of Things, IoT (2024), [Linnaeus University](https://lnu.se/en/)
