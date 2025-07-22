@@ -84,7 +84,7 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 - Integrated internal services with external vendor modules using **mocking techniques** in test environments.  
 - Collaborated closely with the development team to ensure high test coverage and system reliability.
 - Experienced in designing and managing CI/CD pipelines using Jenkins and GitHub Actions to automate build, test, and deployment workflows across microservice architectures,
-  e.g. open source project on github and possible to install from PyPI, - [midsummer](https://pypi.org/project/midsummer), where I implemented custom CI pipelines for testing/deployment and publishing to PyPI.
+  e.g. open source project on github and possible to install from PyPI, - [midsummer](https://github.com/nfredrik/midsummer), where I implemented custom CI pipelines for testing/deployment and publishing to PyPI.
 - Tools and technologies used:  
   `Python`, `C#`, `Kubernetes`, `Helm`, `Docker`, `Jenkins`, `Git`, `JSON`, `YAML`, `Poetry`, `BDD/Behave`, custom Python package development.
 
