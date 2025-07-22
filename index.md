@@ -20,7 +20,7 @@ My motivation comes from continuously learning new things in varied environments
 
 ### Language
 - ***Python***  
-- C/C++  
+- ***C/C++***  
 - ***Ruby***  
 - C#  
 - Javascript
@@ -82,7 +82,9 @@ Master of Science in Computer Engineering, Luleå University of Technology (1984
 - Worked in a **CI/CD-driven environment**, where full integration test suites had to pass before merging feature branches to master, minimizing regression risks.  
 - Backend services were implemented as **microservices** deployed in **Kubernetes/Docker** environments.  
 - Integrated internal services with external vendor modules using **mocking techniques** in test environments.  
-- Collaborated closely with the development team to ensure high test coverage and system reliability.  
+- Collaborated closely with the development team to ensure high test coverage and system reliability.
+- Experienced in designing and managing CI/CD pipelines using Jenkins and GitHub Actions to automate build, test, and deployment workflows across microservice architectures,
+  e.g. open source project on github and possible to install from PyPI, - [midsummer](https://pypi.org/project/midsummer), where I implemented custom CI pipelines for testing/deployment and publishing to PyI.
 - Tools and technologies used:  
   `Python`, `C#`, `Kubernetes`, `Helm`, `Docker`, `Jenkins`, `Git`, `JSON`, `YAML`, `Poetry`, `BDD/Behave`, custom Python package development.
 
